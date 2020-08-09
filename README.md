@@ -1,7 +1,8 @@
 # spos
 
-本项目用到的技术有vue-cli4,vueRoute和elementui搭建而成
-在线预览地址：https://wengr.com/spos/index.html#/
+本项目用到的技术有vue-cli4,vueRoute和elementUI搭建而成
+
+在线预览地址：https://wengr.com/spos/index.html
 
 ## Project setup
 ```
